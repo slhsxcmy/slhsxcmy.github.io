@@ -1,4 +1,23 @@
-## Welcome to GitHub Pages
+https://visualizela.github.io/exploringdunitz/#/article/2018-11-05-f18-mingyucu
+
+# Projects
+## Projects
+### Projects
+- eBay Catalog Search - Responsive Design
+    - [GitHub](https://github.com/slhsxcmy/cs571/tree/master/hw8-client)
+    - [Website URL](http://hw8-client-cs571su2020.wl.r.appspot.com/)
+
+
+
+# Links
+- [LinkedIn](https://www.linkedin.com/in/m-cui/)
+- [GitHub](https://github.com/slhsxcmy)
+
+
+
+
+
+Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/slhsxcmy/slhsxcmy.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
