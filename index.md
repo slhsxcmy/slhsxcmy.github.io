@@ -15,7 +15,7 @@
     - [Website](http://hw8-client-cs571su2020.wl.r.appspot.com/)
 - eBay Catalog Search - Android
     - [GitHub](https://github.com/slhsxcmy/cs571/tree/master/hw9)
-    - [APK](https://drive.google.com/file/d/1YHNC95Gun0s5Ux9P1uScrNOfROR83tbP/view)
+    - [Google Play Store](https://play.google.com/store/apps/details?id=ebay.catalog.search)
 - Hockey Master
     - [GitHub](https://github.com/slhsxcmy/HockeyMaster)
 
