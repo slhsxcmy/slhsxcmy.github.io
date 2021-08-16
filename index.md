@@ -1,4 +1,4 @@
-## Personal Projects
+## Open Source Project
 - Visual Studio Code Extension - Double Line Numbers
     - [GitHub](https://github.com/slhsxcmy/vscode-double-line-numbers)
     - [Extension Marketplace](https://marketplace.visualstudio.com/items?itemName=slhsxcmy.vscode-double-line-numbers)
