@@ -1,9 +1,10 @@
-## Open Source Project
+## Open Source Projects
+### Owner
 - Visual Studio Code Extension - Double Line Numbers
     - [GitHub](https://github.com/slhsxcmy/vscode-double-line-numbers)
     - [Extension Marketplace](https://marketplace.visualstudio.com/items?itemName=slhsxcmy.vscode-double-line-numbers)
 
-## Contributions
+### Contributor
 - Sparkler
     - [GitHub](https://github.com/USCDataScience/sparkler)
     
@@ -26,3 +27,4 @@
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/m-cui/)
 - [GitHub](https://github.com/slhsxcmy)
+- [Portfolio](https://slhsxcmy.github.io/)
