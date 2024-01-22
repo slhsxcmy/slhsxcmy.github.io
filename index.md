@@ -38,4 +38,3 @@
 - [GitHub](https://github.com/slhsxcmy)
 - [Portfolio](https://slhsxcmy.github.io/)
 - [Resume](https://docs.google.com/document/d/1BEv4vxwfSGUj16esUZtlWrrxa7Fsm8mvyLe710OaDbQ/edit?usp=sharing)
-- [Leetcode](https://leetcode.com/slhsxcmy/)
