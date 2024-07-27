@@ -8,6 +8,9 @@
 
 ### Contributor
 
+- TanStack Table
+  - [Docs](https://tanstack.com/table/latest)
+  - [GitHub](https://github.com/tanstack/table)
 - @s-group/react-usercentrics
   - [NPM](https://www.npmjs.com/package/@s-group/react-usercentrics)
   - [GitHub](https://github.com/s-group-dev/react-usercentrics)
